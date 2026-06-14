@@ -43,5 +43,6 @@ In addition to the specific games listed above, Vense Hub comes equipped with a 
 2. Paste it into your executor (e.g., Delta).
 3. Execute and enjoy! 
 
-> 💡 *Tip: For a seamless experience, you can save our bootstrapper into your executor's `autoexec` folder to load Vense Hub automatically every time you join a supported game.*
-> 🪐 *by WertDev* 🪐
+> 💡 *Tip: Join Discord Server! https://discord.gg/DymEtkKe8E*
+>
+🪐 *by WertDev* 🪐
