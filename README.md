@@ -1,6 +1,6 @@
-# 🪐 Vense Hub
+# 🪐 Kenzo Hub
 
-Welcome to the official repository of **Vense Hub**, a powerful, highly optimized, and secure script hub designed to enhance your gameplay experience across multiple popular titles. Protected with advanced obfuscation, Vense Hub ensures top-tier performance and safety.
+Welcome to the official repository of **Kenzo Hub**, a powerful, highly optimized, and secure script hub designed to enhance your gameplay experience across multiple popular titles. Protected with advanced obfuscation, Vense Hub ensures top-tier performance and safety.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to the official repository of **Vense Hub**, a powerful, highly optimize
 
 | Detail | Status |
 | :--- | :--- |
-| **Current Version** | `v1.6` |
+| **Current Version** | `v1.0` |
 | **Status** | 🟢 Working / Undetected |
 | **Supported Executors** | Delta, and other major Luau executors |
 
@@ -16,7 +16,7 @@ Welcome to the official repository of **Vense Hub**, a powerful, highly optimize
 
 ## 🎮 Supported Games
 
-Vense Hub features dedicated, game-specific automations and features for the following titles:
+Kenzo Hub features dedicated, game-specific automations and features for the following titles:
 
 *   **Brookhaven RP** 🏡
 *   **Murder Mystery 2 (MM2)** 🔪
@@ -30,8 +30,6 @@ In addition to the specific games listed above, Vense Hub comes equipped with a 
 
 ## ⚙️ Features
 
-*   **Advanced Anti-Dump & Anti-Leak:** Enhanced execution protection.
-*   **Auto-Execute Friendly:** Perfectly structured to run smoothly when placed in your executor's `autoexec` folder.
 *   **Clean UI:** Smooth navigation with an intuitive layout designed for both PC and Mobile players.
 *   **Constant Updates:** Frequently maintained to match game patches and ensure 100% uptime.
 
