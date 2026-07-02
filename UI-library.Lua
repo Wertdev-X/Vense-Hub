@@ -17,7 +17,7 @@ local kenzolib = {
 		KenzoDarker = {
     ["Color Hub 1"] = ColorSequence.new({
         ColorSequenceKeypoint.new(0.00, Color3.fromRGB(6, 6, 8)),
-        ColorSequenceKeypoint.new(0.50, Color3.fromRGB(2, 2, 3)),
+        ColorSequenceKeypoint.new(0.50, Color3.fromRGB(2, 2, 9)),
         ColorSequenceKeypoint.new(1.00, Color3.fromRGB(6, 6, 8))
     }),
     ["Color Hub 2"] = Color3.fromRGB(12, 12, 14),
