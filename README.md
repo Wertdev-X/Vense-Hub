@@ -19,9 +19,8 @@ Welcome to the official repository of **Kenzo Hub**, a powerful, highly optimize
 Kenzo Hub features dedicated, game-specific automations and features for the following titles:
 
 *   **Brookhaven RP** 🏡
-*   **Murder Mystery 2 (MM2)** 🔪
+*   **Natural Disaster Survival (NDS** 🗻
 *   **Doors** 👁️
-*   **Forsaken** ⚔️
 
 ### 🌌 Universal Script Included!
 In addition to the specific games listed above, Vense Hub comes equipped with a **Universal Script** module. This allows you to execute essential features, utility tools, and environment tweaks in **any game** you play, making it a versatile tool for your entire library.
