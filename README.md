@@ -19,7 +19,7 @@ Welcome to the official repository of **Kenzo Hub**, a powerful, highly optimize
 Kenzo Hub features dedicated, game-specific automations and features for the following titles:
 
 *   **Brookhaven RP** 🏡
-*   **Natural Disaster Survival (NDS** 🗻
+*   **Natural Disaster Survival (NDS)** 🗻
 *   **Doors** 👁️
 
 ### 🌌 Universal Script Included!
